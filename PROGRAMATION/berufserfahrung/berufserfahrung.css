@@ -1,0 +1,263 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap');
+*{font-family: 'Inter', sans-serif;
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+scroll-behavior: smooth;}
+
+
+
+
+header{background-color:lavender;
+    width: 100%;
+    position: fixed ;
+    z-index: 999;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 200px 10px 100px;
+    }  
+    
+    .logo{ 
+        text-decoration:none;
+    color: #3a6cf4;
+    
+    font-weight: 700;
+    font-size: 1.8em;
+    }
+    
+    
+    .navigation a{ 
+        text-decoration: none;
+    color: #3a6cf4;
+    text-transform: uppercase;
+    font-weight: 500;
+    font-size: 1.1em
+    ;
+    padding-left: 30px;
+    
+    }
+    .navigation a:hover{color:rgb(0, 255, 200);
+    transition: 1s ease;}
+    
+
+
+
+
+
+
+
+   
+.dowlond{
+    display: inline-block;
+    color: #fff;
+    background-color: #3a6cf4;
+    text-decoration: none;
+    font-size: 1.1em;
+    font-weight:600 ;
+ 
+    padding: 0.9em 2em;
+    letter-spacing: 1px;
+    border-radius: 15px;
+    margin-bottom: 40px;
+    margin-top: 70px;
+    margin-left: 40px;
+    transition: 1.1s;
+    
+  }
+
+
+
+
+  .dowlond2{
+    display: inline-block;
+    color: #fff;
+    background-color: #3a6cf4;
+    text-decoration: none;
+    font-size: 1.1em;
+    font-weight:600 ;
+ 
+    padding: 0.9em 2em;
+    letter-spacing: 1px;
+    border-radius: 15px;
+    margin-bottom: 40px;
+    margin-top: 70px;
+    margin-left: 40px;
+    transition: 1.1s;
+    
+  }
+
+
+
+
+  .dowlond3{
+    display: inline-block;
+    color: #fff;
+    background-color: #3a6cf4;
+    text-decoration: none;
+    font-size: 1.1em;
+    font-weight:600 ;
+ 
+    padding: 0.9em 2em;
+    letter-spacing: 1px;
+    border-radius: 15px;
+    margin-bottom: 40px;
+    margin-top: 70px;
+    margin-left: 40px;
+    transition: 1.1s;
+    
+  }
+
+
+  
+.dowlond:hover{
+    background-color:#3a6cf4 ;
+    transform: scale(1.1);
+}
+
+
+.dowlond2:hover{
+    background-color:#3a6cf4 ;
+    transform: scale(1.1);
+}
+
+
+
+.dowlond3:hover{
+    background-color:#3a6cf4 ;
+    transform: scale(1.1);
+}
+.firma1{
+    display: flex;
+    background-color: lavender;
+   padding: 0.9em 2em;
+   border-radius: 15px;
+   margin-bottom: 40px;
+   width: 800PX;
+   margin-left: 40PX;
+
+   
+}
+.aufgaben{
+    margin-left: 50PX;
+}
+
+.image1{
+   margin-left: 10PX;
+    width: 120px;
+    height: 120PX;
+    border-radius: 10PX;
+    
+}
+.total1{
+
+    margin-left: 50PX;
+}
+.date1{
+    font-weight: 900;
+    
+}
+.charika1{
+    font-weight: 600;
+}
+
+
+
+
+
+.firma2{
+    display: flex;
+    background-color: lavender;
+   padding: 0.9em 2em;
+   border-radius: 15px;
+   margin-bottom: 40px;
+   width: 800PX;
+   margin-left: 40PX;
+
+   
+}
+
+.image2{
+   margin-left: 10PX;
+    width: 120px;
+    height: 120PX;
+    border-radius: 10PX;
+    
+}
+.total2{
+
+    margin-left: 50PX;
+}
+.date2{
+    font-weight: 700;
+}
+.charika2{
+    font-weight: 500;
+}
+
+
+
+
+.firma3{
+    display: flex;
+    background-color: lavender;
+   padding: 0.9em 2em;
+   border-radius: 15px;
+   margin-bottom: 40px;
+   width: 800PX;
+   margin-left: 40PX;
+
+   
+}
+
+.image3{
+   margin-left: 10PX;
+    width: 120px;
+    height: 120PX;
+    border-radius: 10PX;
+    
+}
+.total3{
+
+    margin-left: 50PX;
+}
+.date3{
+    font-weight: 700;
+}
+.charika3{
+    font-weight: 500;
+}
+
+
+
+
+.firma4{
+    display: flex;
+    background-color: lavender;
+   padding: 0.9em 2em;
+   border-radius: 15px;
+   margin-bottom: 40px;
+   width: 800PX;
+   margin-left: 40PX;
+
+   
+}
+
+.image4{
+   margin-left: 10PX;
+    width: 120px;
+    height: 120PX;
+    border-radius: 10PX;
+    
+}
+.total4{
+
+    margin-left: 50PX;
+}
+.date4{
+    font-weight: 700;
+}
+.charika4{
+    font-weight: 500;
+}
